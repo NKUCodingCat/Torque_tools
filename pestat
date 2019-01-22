@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# TODO: add GPU support jt. chen Jan23, 2019
+
 # Name: pestat
 # ------------
 # Torque resource manager utility script: Print a 1-line summary of jobs on each node.
